@@ -1,0 +1,3 @@
+logs/
+test_tickets*.txt
+__pycache__/
