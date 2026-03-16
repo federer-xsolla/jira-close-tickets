@@ -1,0 +1,5 @@
+# Jira tickets to close — one per line
+# Supports full URLs and plain keys
+
+https://xsolla.atlassian.net/browse/XTRAIN-25454
+https://xsolla.atlassian.net/browse/WRON-12297
